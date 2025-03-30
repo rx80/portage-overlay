@@ -32,7 +32,7 @@ DEPEND="
 	dev-qt/linguist-tools:5[qml]
 	sys-auth/polkit
 	dev-libs/quazip[qt5]
-	dev-libs/botan:2
+	dev-libs/botan:3
 	dev-libs/pugixml
 	>=dev-libs/spdlog-1.4.0
 "
